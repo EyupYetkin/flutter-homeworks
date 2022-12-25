@@ -1,0 +1,4 @@
+Et_Döner 100 49.50
+Tavuk_Döner 100 24.50
+Mercimek_Çorbası 150 19.90
+Köfte 200 59.90
